@@ -1,0 +1,18 @@
+.caja-1 {
+    position: relative;
+    top: 100px;
+    /* left: ;
+    right: ;
+    bottom: ; */
+}
+
+.caja-2 {
+    position: relative;
+    top: 100px;
+}
+
+.caja-3 {
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}

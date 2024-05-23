@@ -1,0 +1,39 @@
+body {
+    background-color: orange;
+}
+
+/* h1, h2, h3, h4, h5 {
+    color: white;
+} */
+
+/* #parrafo1 {
+    color: blue;
+    font-size: 40px;
+    font-family: 'Arial'
+} */
+
+#parrafo2 {
+    color: red;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
+.blancos {
+    color: white;
+}
+
+.cuadrado {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    width: 50%
+}
+
+.cuadrado-blanco {
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin: 17px;
+    padding: 10px;
+}
+

@@ -1,0 +1,38 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 30vh auto;
+  border: 5px solid black;
+  width: 300px;
+}
+
+.caja {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+}
+
+.caja-1 {
+  background-color: red;
+}
+.caja-2 {
+  background-color: aquamarine;
+}
+.caja-3 {
+  background-color: blueviolet;
+}
+.caja-4 {
+  background-color: antiquewhite;
+}
+.caja-5 {
+  background-color: greenyellow;
+}
+.caja-6 {
+  background-color: tomato;
+}
